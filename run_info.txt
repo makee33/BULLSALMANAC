@@ -1,0 +1,3 @@
+# COMANDO PARA HACER CORRER LA APLICACIÓN
+streamlit run c:/Users/d_hig/Desktop/TFM_MARZO/INTERFAZ/streamlit_app.py
+
